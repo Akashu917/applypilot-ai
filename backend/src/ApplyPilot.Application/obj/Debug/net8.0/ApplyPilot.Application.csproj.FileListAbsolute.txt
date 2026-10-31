@@ -1,0 +1,15 @@
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\bin\Debug\net8.0\ApplyPilot.Application.deps.json
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\bin\Debug\net8.0\ApplyPilot.Application.dll
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\bin\Debug\net8.0\ApplyPilot.Application.pdb
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\bin\Debug\net8.0\ApplyPilot.Domain.dll
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\bin\Debug\net8.0\ApplyPilot.Domain.pdb
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPilot.Application.csproj.AssemblyReference.cache
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPilot.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPilot.Application.AssemblyInfoInputs.cache
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPilot.Application.AssemblyInfo.cs
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPilot.Application.csproj.CoreCompileInputs.cache
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPil.57D142C0.Up2Date
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPilot.Application.dll
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\refint\ApplyPilot.Application.dll
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ApplyPilot.Application.pdb
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Application\obj\Debug\net8.0\ref\ApplyPilot.Application.dll

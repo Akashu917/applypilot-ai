@@ -1,0 +1,11 @@
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\bin\Debug\net8.0\ApplyPilot.Domain.deps.json
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\bin\Debug\net8.0\ApplyPilot.Domain.dll
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\bin\Debug\net8.0\ApplyPilot.Domain.pdb
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\ApplyPilot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\ApplyPilot.Domain.AssemblyInfoInputs.cache
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\ApplyPilot.Domain.AssemblyInfo.cs
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\ApplyPilot.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\ApplyPilot.Domain.dll
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\refint\ApplyPilot.Domain.dll
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\ApplyPilot.Domain.pdb
+C:\Users\akash\.gemini\antigravity\scratch\applypilot-ai\backend\src\ApplyPilot.Domain\obj\Debug\net8.0\ref\ApplyPilot.Domain.dll
